@@ -1,7 +1,7 @@
 ## HW1 Horiseon Marketing Refactor
 
 ## Link to application
-http://127.0.0.1:5500/index.html
+https://molee08.github.io/horiseon-hw2/
 
 ## Purpose of application
 Created a more accessible index and css. 
